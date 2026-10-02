@@ -14,8 +14,7 @@
 <td width="55%" valign="middle">
 
 <pre>
-Nishant-code-docs
-++
+Nishant-code-docs@github--------------------------------------
 OS:              Windows
 Uptime:          Learning every day
 Host:            MERN Stack Developer
@@ -27,16 +26,12 @@ Frameworks:      React, Node.js, Express
 Database:        MongoDB
 Learning:        AI, Machine Learning, DSA
 Focus:           Competitive Programming
-
-────────────────────────────────────────────
- Contact
-
+  
+Contact-------------------------------------------------------
 Email:           nk7209254@gmail.com
 LinkedIn:        https://www.linkedin.com/in/nishant-pandey-jh
-
-────────────────────────────────────────────
- GitHub Stats
-
+  
+GitHub Stats--------------------------------------------------
 Repositories:    6
 Projects:        MERN, AI/ML, Full Stack
 </pre>
